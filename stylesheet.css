@@ -80,8 +80,9 @@ div{
 }
 a{
 	color:white;
+	text-decoration: none;
 }
 a:hover{
-	font-style:underline;
+	text-decoration: underline;
 }
 }
